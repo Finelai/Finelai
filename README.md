@@ -15,8 +15,8 @@ My name is Sergei and I'm Front-end Developer with 8+ years of experience
 <br>
 [<img src="https://www.codewars.com/users/Finelai/badges/micro">](https://www.codewars.com/users/Finelai)
 
-- 🚀 **Currently working on developing my POC project** - [Challengers](https://github.com/Finelai/challengers) (write me if you want to join😉)
-- 📜 **Learning FSD, AI, WebAssembly, Pixi.js**
+- 🚀 **Currently working on developing my POC projects**
+- 📜 **Learning AI**
 - 👨‍❤️‍👨 **Looking to collaborate on interesting open-source projects**
 - 🎪 **Fun fact: all my belongings fit in one suitcase**
 
