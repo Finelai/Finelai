@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sergei and I'm Full Stack AI Developer with 10+ years of experience
+My name is Sergei and I'm Full-Stack Engineer with 10+ years of experience
 
 ![SCSS](https://img.shields.io/badge/-SCSS-0d1117?style=for-the-badge&logo=sass)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
@@ -16,7 +16,7 @@ My name is Sergei and I'm Full Stack AI Developer with 10+ years of experience
 ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL)
 ![Go](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=Go)
-![Grafana](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=Grafana)
+![Grafana](https://img.shields.io/badge/-Grafana-0d1117?style=for-the-badge&logo=Grafana)
 <br>
 [<img src="https://www.codewars.com/users/Finelai/badges/micro">](https://www.codewars.com/users/Finelai)
 
